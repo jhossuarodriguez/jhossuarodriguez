@@ -35,7 +35,7 @@
 <tr>
 <td width="50%">
 <h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.webp?raw=true" width="50" height="50" alt="License Administrator"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.png?raw=true" width="50" height="50" alt="License Administrator"/>
   <br/>License Administrator
 </h3>
 <div align="center">
