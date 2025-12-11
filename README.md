@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180" style="border-radius: 50%;"/>
   
   # ¡Hola! 👋 Soy Jhossua Rodríguez
   
