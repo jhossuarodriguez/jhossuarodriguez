@@ -1,10 +1,6 @@
 <div align="center">
   
-  <a href="https://github.com/jhossuarodriguez">
-    <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180"/>
-  </a>
-  
-  # ¡Hola! 👋 Soy Jhossua
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/banner.png?raw=true" alt="Jhossua Rodriguez Banner" width="100%"/>
   
   ### Desarrollador Frontend
   
