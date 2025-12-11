@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/banner.png?raw=true" alt="Jhossua Rodriguez Banner" width="100%"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/banner2.png?raw=true" alt="Jhossua Rodriguez Banner" width="100%"/>
   
   ### Desarrollador Frontend
   
