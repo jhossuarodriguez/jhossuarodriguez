@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jhossuarodriguez/jhossuarodriguez/main/assets/profile.png" alt="Jhossua Rodriguez" width="180"/>
+  
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180"/>
   
   # ¡Hola! 👋 Soy Jhossua Rodríguez
   
-  ### Desarrollador Full Stack
+  ### Desarrollador Frontend
   
   Especializado en **Next.js**, **Astro** y **TypeScript**  
   Apasionado por crear aplicaciones web modernas y eficientes
@@ -95,13 +96,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐ No olvides dejar una estrella si te gustaron mis proyectos
-
-</div>
