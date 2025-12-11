@@ -11,7 +11,7 @@
   Especializado en **Next.js**, **Astro** y **TypeScript**  
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhossuarodriguez)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhossuarodriguezz@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhossua@example.com)
   
 </div>
 
@@ -38,7 +38,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">License Administrator</h3>
+<h3 align="center">
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.webp?raw=true" width="50" height="50" alt="License Administrator"/>
+  <br/>License Administrator
+</h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/license-administrator" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
 <p>
@@ -52,7 +55,10 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Maps For Mom</h3>
+<h3 align="center">
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/maps-for-moms-logo.webp?raw=true" width="50" height="50" alt="Maps For Mom"/>
+  <br/>Maps For Mom
+</h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/maps-for-mom" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
 <p>
@@ -68,7 +74,10 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Tenax Construction</h3>
+<h3 align="center">
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/tenax-logo.webp?raw=true" width="50" height="50" alt="Tenax Construction"/>
+  <br/>Tenax Construction
+</h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/tenax-construction" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
 <p>
@@ -82,7 +91,10 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">PokedexApp</h3>
+<h3 align="center">
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/pokedex-logo.png?raw=true" width="50" height="50" alt="PokedexApp"/>
+  <br/>PokedexApp
+</h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/pokedex-app" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
 <p>
