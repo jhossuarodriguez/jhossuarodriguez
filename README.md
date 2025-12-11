@@ -75,7 +75,7 @@
   <br/>Tenax Construction
 </h3>
 <div align="center">
-<a href="https://github.com/jhossuarodriguez/tenax-construction" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
+<a href="https://github.com/jhossuarodriguez/tenax-website" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
 <p>
 <strong>Sitio corporativo</strong> para constructora con diseño moderno y formulario de contacto
 </p>
