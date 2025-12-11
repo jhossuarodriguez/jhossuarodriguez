@@ -1,8 +1,10 @@
 <div align="center">
   
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180" style="border-radius: 50%;"/>
+  <a href="https://github.com/jhossuarodriguez">
+    <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/Profile.png?raw=true" alt="Jhossua Rodriguez" width="180"/>
+  </a>
   
-  # ¡Hola! 👋 Soy Jhossua Rodríguez
+  # ¡Hola! 👋 Soy Jhossua
   
   ### Desarrollador Frontend
   
@@ -32,7 +34,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Destacados
 
 <table>
 <tr>
