@@ -4,9 +4,7 @@
   
   ### Desarrollador Frontend
   
-  **Next.js**, **Astro** y **TypeScript**  
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhossuarodriguez)
+  **Next.js**, **Astro** y **TypeScript** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhossuarodriguez)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhossuarodriguezz@gmail.com)
   
 </div>
@@ -35,11 +33,12 @@
 <tr>
 <td width="50%">
 <h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.png?raw=true" width="50" height="50" alt="License Administrator"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.png?raw=true" height="45" alt="License Administrator"/>
   <br/>License Administrator
 </h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/license-administrator" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
+<a href="https://administrador-de-licencias.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"></a>
 <p>
 <strong>Sistema de gestión de licencias</strong> con dashboard interactivo y estadísticas en tiempo real
 </p>
@@ -52,11 +51,12 @@
 </td>
 <td width="50%">
 <h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/maps-for-moms-logo.webp?raw=true" width="50" height="50" alt="Maps For Mom"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/maps-for-moms-logo.webp?raw=true" height="45" alt="Maps For Mom"/>
   <br/>Maps For Mom
 </h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/maps-for-mom" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
+<a href="https://mapsformom.com" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Demo"></a>
 <p>
 <strong>Plataforma de itinerarios de viaje</strong> personalizados con SSR y optimización avanzada
 </p>
@@ -71,11 +71,12 @@
 <tr>
 <td width="50%">
 <h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/tenax-logo.webp?raw=true" width="50" height="50" alt="Tenax Construction"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/tenax-logo.webp?raw=true" height="45" alt="Tenax Construction"/>
   <br/>Tenax Construction
 </h3>
 <div align="center">
 <a href="https://github.com/jhossuarodriguez/tenax-website" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
+<a href="https://www.tenaxconstruction.com.do/" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Demo"></a>
 <p>
 <strong>Sitio corporativo</strong> para constructora con diseño moderno y formulario de contacto
 </p>
@@ -88,7 +89,7 @@
 </td>
 <td width="50%">
 <h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/pokedex-logo.png?raw=true" width="50" height="50" alt="PokedexApp"/>
+  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/pokedex-logo.png?raw=true" height="45" alt="PokedexApp"/>
   <br/>PokedexApp
 </h3>
 <div align="center">
