@@ -1,108 +1,18 @@
-<div align="center">
-  
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/banner.png?raw=true" alt="Jhossua Rodriguez Banner" width="100%"/>
-  
-  ### Desarrollador Frontend
-  
-  **Next.js**, **Astro** y **TypeScript** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhossuarodriguez)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhossuarodriguezz@gmail.com)
-  
-</div>
+# Hola, soy Jhossua 👋
 
----
+📍 Santo Domingo, RD | 💻 Software Engineer
 
-## 🛠️ Tecnologías
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-FF3E00?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center">
+> Apasionado por el desarrollo web moderno y la creación de interfaces impecables. Combinando mi gusto por la estética retro 8-bit con un rendimiento web optimizado y preciso. 
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF3E00?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/jhossuarodriguez) | [jhossuarodriguezz@gmail.com](mailto:jhossuarodriguezz@gmail.com)
 
-</div>
+### Proyectos Destacados
 
----
-
-## 🚀 Destacados
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/license-administrator-logo.png?raw=true" height="45" alt="License Administrator"/>
-  <br/>License Administrator
-</h3>
-<div align="center">
-<a href="https://github.com/jhossuarodriguez/license-administrator" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
-<a href="https://administrador-de-licencias.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"></a>
-<p>
-<strong>Sistema de gestión de licencias</strong> con dashboard interactivo y estadísticas en tiempo real
-</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/maps-for-moms-logo.webp?raw=true" height="45" alt="Maps For Mom"/>
-  <br/>Maps For Mom
-</h3>
-<div align="center">
-<a href="https://github.com/jhossuarodriguez/maps-for-mom" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
-<a href="https://mapsformom.com" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Demo"></a>
-<p>
-<strong>Plataforma de itinerarios de viaje</strong> personalizados con SSR y optimización avanzada
-</p>
-<p>
-<img src="https://img.shields.io/badge/Astro-FF3E00?style=flat-square&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"/>
-</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/tenax-logo.webp?raw=true" height="45" alt="Tenax Construction"/>
-  <br/>Tenax Construction
-</h3>
-<div align="center">
-<a href="https://github.com/jhossuarodriguez/tenax-website" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
-<a href="https://www.tenaxconstruction.com.do/" target="_blank"><img src="https://img.shields.io/badge/DEMO-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Demo"></a>
-<p>
-<strong>Sitio corporativo</strong> para constructora con diseño moderno y formulario de contacto
-</p>
-<p>
-<img src="https://img.shields.io/badge/Astro-FF3E00?style=flat-square&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">
-  <img src="https://github.com/jhossuarodriguez/jhossuarodriguez/blob/main/assets/pokedex-logo.png?raw=true" height="45" alt="PokedexApp"/>
-  <br/>PokedexApp
-</h3>
-<div align="center">
-<a href="https://github.com/jhossuarodriguez/pokedex-app" target="_blank"><img src="https://img.shields.io/badge/VER_REPO-gray?style=for-the-badge&logo=github" alt="Ver Repositorio"></a>
-<p>
-<strong>Aplicación web interactiva</strong> para explorar información de Pokémon
-</p>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-</div>
-</td>
-</tr>
-</table>
+* 📋 **[License Administrator](https://administrador-de-licencias.vercel.app/)** — Sistema de gestión de licencias con dashboard interactivo y estadísticas en tiempo real. ([Ver código](https://github.com/jhossuarodriguez/license-administrator))
+* 🗺️ **[Maps For Mom](https://mapsformom.com)** — Plataforma de itinerarios de viaje personalizados con SSR y optimización avanzada. ([Ver código](https://github.com/jhossuarodriguez/maps-for-mom))
+* 🏗️ **[Tenax Construction](https://www.tenaxconstruction.com.do/)** — Sitio corporativo para constructora con diseño moderno, SEO optimizado y formulario de contacto. ([Ver código](https://github.com/jhossuarodriguez/tenax-website))
+* 🏢 **Oficina Virtual** *(En desarrollo)* — Aplicación institucional con flujos de autenticación complejos y arquitectura escalable
+* 👾 **[PokedexApp](https://github.com/jhossuarodriguez/pokedex-app)** — Aplicación web interactiva para explorar información de Pokémon
+* 🎮 **Portafolio Retro** — Portafolio interactivo utilizando el motor Phaser con diseño inspirado en la estética de Pokémon clásico.
